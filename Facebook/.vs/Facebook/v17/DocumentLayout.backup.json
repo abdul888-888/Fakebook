@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dsa\\Facebook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\UserAuthentication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\UserAuthentication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\Post.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\Post.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\Liskes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\Liskes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\Friends.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\Friends.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\Facebook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\Facebook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\Comment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\Comment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\friends.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\friends.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|D:\\dsa\\Facebook\\Facebook\\allusers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78D989E2-2BC8-4D04-B1E7-900704C6ED92}|Facebook\\Facebook.vcxproj|solutionrelative:Facebook\\allusers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\Post.h",
+              "RelativeDocumentMoniker": "Facebook\\Post.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\Post.h",
+              "RelativeToolTip": "Facebook\\Post.h",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-28T12:55:00.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Liskes.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\Liskes.h",
+              "RelativeDocumentMoniker": "Facebook\\Liskes.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\Liskes.h",
+              "RelativeToolTip": "Facebook\\Liskes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-28T12:53:11.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\Comment.h",
+              "RelativeDocumentMoniker": "Facebook\\Comment.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\Comment.h",
+              "RelativeToolTip": "Facebook\\Comment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-28T12:50:55.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "allusers.txt",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\allusers.txt",
+              "RelativeDocumentMoniker": "Facebook\\allusers.txt",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\allusers.txt",
+              "RelativeToolTip": "Facebook\\allusers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-26T14:37:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Friends.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\Friends.h",
+              "RelativeDocumentMoniker": "Facebook\\Friends.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\Friends.h",
+              "RelativeToolTip": "Facebook\\Friends.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-26T11:06:46.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Facebook.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\Facebook.h",
+              "RelativeDocumentMoniker": "Facebook\\Facebook.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\Facebook.h",
+              "RelativeToolTip": "Facebook\\Facebook.h",
+              "ViewState": "AgIAAL4CAAAAAAAAAAAAAOICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-01T04:16:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAuthentication.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\UserAuthentication.h",
+              "RelativeDocumentMoniker": "Facebook\\UserAuthentication.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\UserAuthentication.h",
+              "RelativeToolTip": "Facebook\\UserAuthentication.h",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-01T04:17:28.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.h",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\User.h",
+              "RelativeDocumentMoniker": "Facebook\\User.h",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\User.h",
+              "RelativeToolTip": "Facebook\\User.h",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-31T13:39:51.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\main.cpp",
+              "RelativeDocumentMoniker": "Facebook\\main.cpp",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\main.cpp",
+              "RelativeToolTip": "Facebook\\main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-01T04:16:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "friends.txt",
+              "DocumentMoniker": "D:\\dsa\\Facebook\\Facebook\\friends.txt",
+              "RelativeDocumentMoniker": "Facebook\\friends.txt",
+              "ToolTip": "D:\\dsa\\Facebook\\Facebook\\friends.txt",
+              "RelativeToolTip": "Facebook\\friends.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-26T14:37:02.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
